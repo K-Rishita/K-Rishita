@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-AI engineer and IEEE-published researcher with 2+ years of experience in LLM evaluation, enterprise AI deployment, and multi-agent systems. Currently pursuing my MS in Artificial Intelligence at Northeastern University (GPA: 3.91).
+AI engineer and IEEE-published researcher with 2+ years of experience in LLM evaluation, enterprise AI deployment, and multi-agent systems. Graduated with MS in Artificial Intelligence at Northeastern University (GPA: 3.91).
 
 ---
 
